@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/community</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/students</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/sponsors</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/schedule</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/details</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/about</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+<url>
+  <loc>http://restless-frost-6954.animaapp.io/home</loc>
+  <lastmod>2019-10-31</lastmod>
+</url>
+
+</urlset>
